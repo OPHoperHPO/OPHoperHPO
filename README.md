@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+### :bust_in_silhouette: About me:
+I am a developer from Russia. \
+I am actively interested in the topic of neural networks. \
+I program a variety of projects in focus, for example, I write programs for microcontrollers, I do projects with neural networks, I write my own modules for a smart home, backend development, etc. \
+I know such programming languages as Kotlin and Python.
+### 🔭 I’m currently working on:
+I am currently working on a **free open source alternative** to `remove.bg`, namely a [tool to automatically remove the background from photos using neural networks.](https://github.com/OPHoperHPO/image-background-remove-tool)
+### - ⚡ My social networks: 
+* Vkontakte: [@sn231](https://vk.com/sn231)
+* Telegram: [@Anodev1](https://t.me/anodev1)
+* Instagram: [@anodev_ru](https://www.instagram.com/anodev_ru/)
 <!--
 **OPHoperHPO/OPHoperHPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
