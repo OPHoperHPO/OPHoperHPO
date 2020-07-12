@@ -9,9 +9,9 @@ I am currently working on a **free open source alternative** to `remove.bg`, nam
 ### 💵 Support me:  
   You can thank me for developing any of my projects, provide financial support for developing new projects and buy me a small cup of coffee.☕ \
   Just support me on these platforms:    \
-  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/boosty_logo.png) [**Boosty**](https://boosty.to/anodev)
+  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/boosty_logo.jpg) [**Boosty**](https://boosty.to/anodev)
   * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/donationalerts_logo.png) [**DonationAlerts**](https://www.donationalerts.com/r/anodev_development)
-  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/paypal_logo.png) [**PayPal**](https://paypal.me/anodev)
+  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/paypal_logo.jpg) [**PayPal**](https://paypal.me/anodev)
 
 ### ⚡ My social networks: 
 * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/vk_logo.png) Vkontakte: [@sn231](https://vk.com/sn231)
