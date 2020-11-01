@@ -11,7 +11,7 @@ I am currently working on a **free open source alternative** to `remove.bg`, nam
   Just support me on these platforms:
   * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/boosty_logo.jpeg) [**Boosty**](https://boosty.to/anodev)
   * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/donationalerts_logo.png) [**DonationAlerts**](https://www.donationalerts.com/r/anodev_development)
-  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/paypal_logo.jpg) [**PayPal**](https://paypal.me/anodev)
+  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/paypal_logo.jpg) [**PayPal**](https://paypal.me/anodevru)
 
 ### ⚡ My social networks: 
 * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/vk_logo.png) Vkontakte: [@sn231](https://vk.com/sn231)
