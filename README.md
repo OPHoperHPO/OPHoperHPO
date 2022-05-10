@@ -11,7 +11,7 @@ I'm currently working on a **free and open source** [`image background removal f
   You can thank me for developing any of my projects, provide financial support for developing new projects and buy me a small cup of coffee.☕ \
   Just support me on these platforms:
   
-  ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/eth_wallet.png) **Ethereum wallet** - `0x7Ab1B8015020242D2a9bC48F09b2F34b994bc2F8`
+  ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/eth_wallet_16.png) **Ethereum wallet** - `0x7Ab1B8015020242D2a9bC48F09b2F34b994bc2F8`
 
 ## ⚡ My social networks: 
 * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/vk_logo.png) Vkontakte: [@sn231](https://vk.com/sn231)
